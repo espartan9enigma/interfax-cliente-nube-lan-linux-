@@ -1,0 +1,79 @@
+{	
+
+	"servidorIp" : "192.168.0.13", 
+	"puerto": 9090, 
+	"puerto2" : 8090,
+
+	"puerto3" : 5070,
+	"puerto4" : 5080,
+
+	"iconos": {
+		"Dlang" : "Dlang.png",
+		"Dlang2" : "Dlang2.jpeg",
+		"Python" : "python.png",
+		"txt": "txt.png",
+		"NoDefinido" : "noDefinido.png",
+		"Carpeta" : "carpeta.png",
+		"C" : "c-.png",
+		"Cpp" : "cpp.png",
+		"Pinterest" : "images.png",
+		"Json" : "json.png",
+		"Exe" : "exe.png",
+		"Imagen" : "visual.png",
+		"Video" : "video.png",
+		"Dll" : "dll.png",
+		"dirEscritorio" : "dirEscritorio.png",
+		"dirDocumentos" : "dirDocumentos.png",
+		"dirImagenes" : "dirImagenes.png",
+		"dirDescargas" : "dirDescargas.png",
+		"Pdf" : "pdf.png",
+		"Java" : "java.png",
+		"JavaClass" : "class.png"
+	},
+
+	"posicionControles" : "left",
+	"backgroundColor" : "#591231",
+	"backgroundImage" : "",
+	"fuenteNombres" : ["Inconsolata", 11 , "bold"],
+	"colorNombres" : "#111",
+ 	"ancho" : 730, 
+	"alto" : 472, 
+	"dimensionIcon" : 70,
+	"espacioMargen" : 40,
+	"backgroundControles" : "#111",
+	"colorScrollbar" : "#123321",
+	"colorClickeo" : "red",
+
+	"tipoDirectorios" : "Lugares",
+	"fuenteLabelDirectorios" : ["Inconsolata", 14,"bold"],
+	"ladoCarpetas" : "left",
+
+	"rutasFijas" : {
+		"Escritorio" : {
+			"titulo" : "Escritorio",
+			"icono" : "escritorio.png",
+			"ruta" : "Escritorio/"
+		},
+		"Documentos" : {
+			"titulo" : "Documentos",
+			"icono" : "documentos.png",
+			"ruta" : "Documentos/"
+		},
+		"Imagenes" : {
+			"titulo" : "Imagenes",
+			"icono" : "imagenesRuta.png",
+			"ruta" : "Imágenes/"
+		},
+		"Descargas" : { 
+			"titulo" : "Descargas",
+			"icono" : "descargas.png",
+			"ruta" : "Descargas/"
+		}
+	},
+
+	"rutaDescarga" : "~/Descargas/",
+
+	"archivosOcultos" : false
+
+}
+
